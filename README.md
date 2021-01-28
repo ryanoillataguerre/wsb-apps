@@ -1,2 +1,2 @@
-# wsb-twitching
-A comment aggregator and sorter for WSB daily threads
+# WSB Apps
+Project 1 - comment aggregator/sorter
